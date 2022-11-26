@@ -1,0 +1,120 @@
+instances_kp/10_100_1.txt  
+308.333  103  0.166667
+instances_kp/10_100_2.txt  
+287.444  175  0.444444
+instances_kp/10_100_3.txt  
+231.636  88  0.727273
+instances_kp/10_100_4.txt  
+270.5  60  0.214286
+instances_kp/10_100_5.txt  
+238.529  77  0.941176
+instances_kp/10_100_6.txt  
+201.235  96  0.470588
+instances_kp/10_100_7.txt  
+316.52  134  0.32
+instances_kp/10_100_8.txt  
+170.5  81  0.75
+instances_kp/10_100_9.txt  
+232.529  81  0.235294
+instances_kp/10_100_10.txt  
+258.227  77  0.590909
+instances_kp/50_100_1.txt  
+1242.33  526  0.666667
+instances_kp/50_100_2.txt  
+1260.76  490  0.470588
+instances_kp/50_100_3.txt  
+683.571  220  0.47619
+instances_kp/50_100_4.txt  
+798.72  237  0.76
+instances_kp/50_100_5.txt  
+1206.33  545  0.466667
+instances_kp/50_100_6.txt  
+1224.3  364  0.608696
+instances_kp/50_100_7.txt  
+684  153  0
+instances_kp/50_100_8.txt  
+742.625  206  0.125
+instances_kp/50_100_9.txt  
+1202.83  563  0.347826
+instances_kp/50_100_10.txt  
+1130  407  0.8
+instances_kp/100_100_1.txt  
+2251.5  1154  0.625
+instances_kp/100_100_2.txt  
+2191.56  767  0.44
+instances_kp/100_100_3.txt  
+2385.5  914  0.75
+instances_kp/100_100_4.txt  
+1053.5  129  0.375
+instances_kp/100_100_5.txt  
+2352.23  1022  0.954545
+instances_kp/100_100_6.txt  
+2278.6  731  0.3
+instances_kp/100_100_7.txt  
+2057.67  1040  0.533333
+instances_kp/100_100_8.txt  
+994.667  140  0.666667
+instances_kp/100_100_9.txt  
+2314.42  950  0.708333
+instances_kp/100_100_10.txt  
+1178.92  191  0.0833333
+instances_kp/200_100_1.txt  
+4377  1353  0
+instances_kp/200_100_2.txt  
+3436  818  0
+instances_kp/200_100_3.txt  
+3439.42  971  0.526316
+instances_kp/200_100_4.txt  
+5465.32  2316  0.52
+instances_kp/200_100_5.txt  
+4060  1456  0.6
+instances_kp/200_100_6.txt  
+1479.45  226  0.272727
+instances_kp/200_100_7.txt  
+4941  1769  0
+instances_kp/200_100_8.txt  
+4253.43  1631  0.434783
+instances_kp/200_100_9.txt  
+4715.13  2130  0.652174
+instances_kp/200_100_10.txt  
+3948.47  1238  0.941176
+instances_kp/300_100_1.txt  
+7443.67  3752  0.833333
+instances_kp/300_100_2.txt  
+6564.88  2400  0.9375
+instances_kp/300_100_3.txt  
+7104.8  2837  0.8
+instances_kp/300_100_4.txt  
+7589.55  3622  0.85
+instances_kp/300_100_5.txt  
+7417.92  3762  0.56
+instances_kp/300_100_6.txt  
+4618.33  1163  0.444444
+instances_kp/300_100_7.txt  
+3995.81  900  0.3125
+instances_kp/300_100_8.txt  
+5714.7  1693  0.0434783
+instances_kp/300_100_9.txt  
+7698.77  3832  0.772727
+instances_kp/300_100_10.txt  
+1284.43  110  0.285714
+instances_kp/400_100_1.txt  
+3839.6  700  0.4
+instances_kp/400_100_2.txt  
+9115.12  3436  0.12
+instances_kp/400_100_3.txt  
+3382.33  460  0.333333
+instances_kp/400_100_4.txt  
+6148  1634  0
+instances_kp/400_100_5.txt  
+8576.5  2869  0.75
+instances_kp/400_100_6.txt  
+9758.42  3997  0.368421
+instances_kp/400_100_7.txt  
+1960  166  0.75
+instances_kp/400_100_8.txt  
+10321  4773  0.166667
+instances_kp/400_100_9.txt  
+4994.53  922  0.470588
+instances_kp/400_100_10.txt  
+4619.79  924  0.315789

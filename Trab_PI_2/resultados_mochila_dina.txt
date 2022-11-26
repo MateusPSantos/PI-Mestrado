@@ -1,0 +1,120 @@
+instances_kp/10/10_100_1.txt 
+306  100  
+instances_kp/10/10_100_2.txt 
+287  167  
+instances_kp/10/10_100_3.txt 
+223  84  
+instances_kp/10/10_100_4.txt 
+269  57  
+instances_kp/10/10_100_5.txt 
+237  76  
+instances_kp/10/10_100_6.txt 
+197  88  
+instances_kp/10/10_100_7.txt 
+313  126  
+instances_kp/10/10_100_8.txt 
+163  74  
+instances_kp/10/10_100_9.txt 
+229  77  
+instances_kp/10/10_100_10.txt 
+245  77  
+instances_kp/50/50_100_1.txt 
+1241  524  
+instances_kp/50/50_100_2.txt 
+1257  482  
+instances_kp/50/50_100_3.txt 
+681  220  
+instances_kp/50/50_100_4.txt 
+798  237  
+instances_kp/50/50_100_5.txt 
+1205  544  
+instances_kp/50/50_100_6.txt 
+1222  364  
+instances_kp/50/50_100_7.txt 
+684  153  
+instances_kp/50/50_100_8.txt 
+742  206  
+instances_kp/50/50_100_9.txt 
+1200  563  
+instances_kp/50/50_100_10.txt 
+1130  407  
+instances_kp/100/100_100_1.txt 
+2250  1152  
+instances_kp/100/100_100_2.txt 
+2190  767  
+instances_kp/100/100_100_3.txt 
+2385  914  
+instances_kp/100/100_100_4.txt 
+1050  129  
+instances_kp/100/100_100_5.txt 
+2350  1022  
+instances_kp/100/100_100_6.txt 
+2277  731  
+instances_kp/100/100_100_7.txt 
+2057  1039  
+instances_kp/100/100_100_8.txt 
+989  139  
+instances_kp/100/100_100_9.txt 
+2313  949  
+instances_kp/100/100_100_10.txt 
+1178  191  
+instances_kp/200/200_100_1.txt 
+4377  1353  
+instances_kp/200/200_100_2.txt 
+3436  818  
+instances_kp/200/200_100_3.txt 
+3438  971  
+instances_kp/200/200_100_4.txt 
+5464  2316  
+instances_kp/200/200_100_5.txt 
+4058  1456  
+instances_kp/200/200_100_6.txt 
+1478  226  
+instances_kp/200/200_100_7.txt 
+4941  1769  
+instances_kp/200/200_100_8.txt 
+4253  1631  
+instances_kp/200/200_100_9.txt 
+4714  2129  
+instances_kp/200/200_100_10.txt 
+3948  1238  
+instances_kp/300/300_100_1.txt 
+7443  3752  
+instances_kp/300/300_100_2.txt 
+6564  2400  
+instances_kp/300/300_100_3.txt 
+7104  2837  
+instances_kp/300/300_100_4.txt 
+7589  3621  
+instances_kp/300/300_100_5.txt 
+7417  3762  
+instances_kp/300/300_100_6.txt 
+4618  1163  
+instances_kp/300/300_100_7.txt 
+3995  900  
+instances_kp/300/300_100_8.txt 
+5714  1693  
+instances_kp/300/300_100_9.txt 
+7698  3815  
+instances_kp/300/300_100_10.txt 
+1284  110  
+instances_kp/400/400_100_1.txt 
+3839  700  
+instances_kp/400/400_100_2.txt 
+9115  3436  
+instances_kp/400/400_100_3.txt 
+3381  460  
+instances_kp/400/400_100_4.txt 
+6148  1634  
+instances_kp/400/400_100_5.txt 
+8576  2869  
+instances_kp/400/400_100_6.txt 
+9758  3997  
+instances_kp/400/400_100_7.txt 
+1959  166  
+instances_kp/400/400_100_8.txt 
+10320  4773  
+instances_kp/400/400_100_9.txt 
+4994  922  
+instances_kp/400/400_100_10.txt 
+4619  924  
